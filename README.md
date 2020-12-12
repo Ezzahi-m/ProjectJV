@@ -19,8 +19,8 @@ jsoup ( https://jsoup.org ) est une bibliothèque Java pour travailler avec du 
 
 # Contact
 
-  Mohamed Ezzahi : (mohamed.ezzahi1987@gmail.com)
-  Amina Moula : (moulaamina768@gmail.com)
+  Mohamed Ezzahi : (mohamed.ezzahi1987@gmail.com)                                                                                                                     
+  Amina Moula : (moulaamina768@gmail.com)                                                                                                                               
   Jerdouj hamza : (Jerdouj.ha@gmail.com)
   
   
